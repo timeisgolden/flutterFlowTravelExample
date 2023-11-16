@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>318584935330-i044imlo3hnsg9c0qlk0ndg8cg9nso87.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.318584935330-i044imlo3hnsg9c0qlk0ndg8cg9nso87</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>318584935330-g613liovtqpjcs2978mrmilv5lfqo5t1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAANukAaHV2ZgaYeZWNvJ0hzbuyp8pHQEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>318584935330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.theklosetstylist.www</string>
+	<key>PROJECT_ID</key>
+	<string>travelexample-4a3b2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travelexample-4a3b2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:318584935330:ios:de5197d9bbaf16fe3ed8fb</string>
+</dict>
+</plist>
